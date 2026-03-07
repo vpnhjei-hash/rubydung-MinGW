@@ -1,7 +1,5 @@
 # rubydung-MinGW
-rubydung MinGW5.1.2 GCC3.4.5
-我提供的.exe可以在windows98及以上运行（可以不用.png纹理运行）
-windows95打开就只有个空白报错弹窗（应该是没有CPU来模拟OpenGL的过程）
+rubydung MinGW5.1.2 GCC3.4.5 for windows2000/XP
 
 # 一些话
 
